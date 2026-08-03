@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jagzz</h1>
-<h3 align="center">Entry-level DevOps / Cloud Engineer with hands-on experience in AWS, Azure, CI/CD, and Infrastructure as Code. Focused on building, automating, and learning through real projects.</h3>
+<h1 align="center">Hi, I'm Jagzz</h1>
+<h3 align="center"> DevOps / Cloud Engineer with hands-on experience in AWS, Azure, CI/CD, and Infrastructure as Code. Focused on building, automating, and learning through real projects.</h3>
 
 - 📫 How to reach me **steve.okorie@gmail.com**
 
